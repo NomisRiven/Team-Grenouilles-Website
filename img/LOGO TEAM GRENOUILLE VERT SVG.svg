@@ -1,0 +1,22 @@
+<svg id="TG" xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #006837;
+        stroke-width: 40px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #006837;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M577,221V670H226V215.937c-0.832.025-1.662,0.063-2.5,0.063a80.54,80.54,0,1,1,79.669-69H494.494a83.855,83.855,0,0,1-.494-9A83,83,0,1,1,577,221Z"/>
+  <path id="Ellipse_1_copie" data-name="Ellipse 1 copie" class="cls-2" d="M574.5,178A41.5,41.5,0,1,1,616,136.5,41.5,41.5,0,0,1,574.5,178Zm-348,0A41.5,41.5,0,1,1,268,136.5,41.5,41.5,0,0,1,226.5,178Z"/>
+  <path id="Forme_1_1" data-name="Forme 1 1" class="cls-2" d="M522,619V454.227H461V557.973H340V394.218H369.49V506.1h61V394.218H522V333.191H430.494V264.027H522V203H279v61.027h90.49v69.164H279V619H522Z"/>
+</svg>
